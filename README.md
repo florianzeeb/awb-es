@@ -28,5 +28,8 @@ https://raw.githubusercontent.com/florianzeeb/awb-es/master/awb-es_ical_oberaich
 Unteraichen:
 https://raw.githubusercontent.com/florianzeeb/awb-es/master/awb-es_ical_unteraichen.ics
 
+Reichenbach an der Fils:
+https://raw.githubusercontent.com/florianzeeb/awb-es/master/awb-es_ical_reichenbach_fils.ics
+
 # Credits
 Sämtliche Daten werden vom Abfallwirtschaftsbetrieb des Landkreises Esslingen generiert: https://www.awb-es.de/abfuhr/abfuhrtermine/__Abfuhrtermine.html
